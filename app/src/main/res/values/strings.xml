@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">H2GO</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="building_field_hint">Building</string>
+    <string name="add_source_title">Add a New Water Source to the Database</string>
+    <string name="add_source_description">A new water source will be added to the database at your current location</string>
+    <string name="add_source_latitude_label">latitude:</string>
+    <string name="add_source_longitude_label">longitude:</string>
+    <string name="_0_0">0.0</string>
+    <string name="add_source_confirm_text">Add to Database</string>
+    <string name="x">X</string>
+    <string name="fab_description">Floating Action Button</string>
+    <string name="add_source_type_label">type of source:</string>
+    <string name="add_source_floor_label">floor:</string>
+    <string name="add_source_type_hint">e.g. Hydration Station</string>
+    <string name="add_source_floor_hint">e.g. 1, 2, B1, etc.</string>
+    <string name="placeholder_info">Loading...</string>
+    <string name="info_button">Return To Map</string>
+    <string name="info_type">type:</string>
+    <string name="login_button_name">Log In</string>
+    <string name="logout_button_name">Log Out</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_success">You are now signed in</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_account_success">Account Created</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="rating_initial">Rating: Loading...</string>
+    <string name="rate_label">Rate</string>
+    <string name="comment_button_label">Comment</string>
+    <string name="comment_hint">Enter your comment here</string>
+
+    <string name="location_field_hint">Location Within Building</string>
+    <string name="building_label_text">building:</string>
+    <string name="location_label_text">location in building:</string>
+    <string name="building_hint">e.g. UCEN, Library, etc.</string>
+    <string name="location_hint">e.g. Near Campus Store</string>
+    <string name="building_label">building:</string>
+    <string name="location_label">location in building:</string>
+    <string name="floor_label">floor:</string>
+    <string name="type_label">type:</string>
+    <string name="hydration_station_checkbox">Hydration Station</string>
+    <string name="drinking_fountain_checkbox">Drinking Fountain</string>
+    <string name="default_title_field_text">-</string>
+    <string name="dropdown_arrow_description">Dropdown Arrow</string>
+    <string name="type_hint_text">(you can select \nmore than one)</string>
+    <string name="filters_title_text">Apply Filters</string>
+    <string name="filters_description_text">Check a checkbox to only show water sources of that type on the map.</string>
+    <string name="hydration_station_checkbox_text">Hydration Stations</string>
+    <string name="drinking_fountain_checkbox_text">Drinking Fountains</string>
+    <string name="rating_checkbox_text">Rating</string>
+    <string name="rating_denom_text">/5</string>
+    <string name="favorites_checkbox_text">Favorites</string>
+    <string name="apply_filters_button_text">Apply Filters</string>
+    <string name="reset_filters_button_text">Reset Filters</string>
+    <string name="filter_button_text">Filter</string>
+    <string name="favorite_text">Favorite</string>
+    <string name="approve_text">Approve</string>
+    <string name="deny_text">Deny</string>
+    <string name="google_login_button_name" />
+
+    <string-array name="floors">
+        <item> </item>
+        <item>B2</item>
+        <item>B1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="ratings">
+        <item> </item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
